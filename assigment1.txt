@@ -1,0 +1,18 @@
+Pandas:
+Pandas is an open-source python library which has been used for mainly data manipulation and its analysis, where it consists of all the data structures and it's functions for efficient and easy operations on their data.
+
+NumPy:
+NumPy is a Python library which was created in 2005 by Travis Oliphant, that was originally designed for working with all the arrays,complex linear algebra and matrices. It is also an open-source project that allows free usage.
+
+TensorFlow:
+TensorFlow is a powerful tool for creating models for various tasks like natural language processing, image recognition, handwriting recognition, and computational-based simulations like partial differential equations.
+
+Kera's:
+Kera's is also an open-source which is a free platform, and user-friendly library for developing and evaluating extensive deep learning models, covering the above mentioned TensorFlow's numerical machine learning library.
+
+Pytorch:
+PyTorch has been termed a Python-based framework for developing and evaluating deep learning models, which is a very popular machine learning method used in sector like image recognition and language processing, making it easier for developers to learn and use also to have a better understanding of the subjects as well.
+
+Sk learn:
+Scikit-learn is a regarded as a highly beneficial Python library for machine learning which offer a range of efficient tools and resources such as classification, regression, clustering, and dimensionality reduction as well.
+
